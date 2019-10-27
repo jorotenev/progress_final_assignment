@@ -5,7 +5,7 @@ Assignment for the Progress DevOps Class of Aug-Nov 2019
 Build and deploy a web application which exposes an API. The API will send a text message (SMS) to a given phone number with provided content. The sms is sent via the AWS SNS service.
 
 To achieve this, you will create the following stack:
-[check printed visual]
+![Visual](.github/progress-final.png?raw=True "Assignment")
 
 
 All the neccessary steps will be described below + most of the code that you will need.  
